@@ -2,10 +2,10 @@
 A chatting application using websockets (Django Channels , Tortoise ORM)
 
 ```
-1. Users can have group Chat.
-2. Users can have private Chat.
+1. Users can have a group Chat.
+2. Users can have a private Chat.
 3. Users can delete their messages as well.
-4. Login Alerts if a user logs in while the other use is online
+4. Login Alerts if a user logs in while the other user is online
 ```
 
 ## Installing Requirements
