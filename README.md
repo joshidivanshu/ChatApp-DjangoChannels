@@ -1,6 +1,12 @@
 # ChatApp-DjangoChannels
 A chatting application using websockets (Django Channels , Tortoise ORM)
 
+```
+1. Users can have group Chat.
+2. Users can have private Chat.
+3. Users can delete their messages as well.
+```
+
 ## Installing Requirements
 
 Use Virtualenv and install the packages.
